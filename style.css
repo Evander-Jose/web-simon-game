@@ -1,0 +1,39 @@
+body {
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+h1 {
+    font-family: "rainyhearts";
+    font-size: 5rem;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+h2 {
+    font-family: "rainyhearts";
+    font-size:2.5rem;
+    color:white;
+    margin-top: 10px;
+}
+
+.button {
+    height: 150px;
+    width: 150px;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.button-container {
+    display: inline-block;
+    width: 175px;
+    height: 175px;
+    position: relative;
+}
+
+@font-face {
+    font-family: "rainyhearts";
+    src: url("fonts/rainyhearts.ttf");
+}
